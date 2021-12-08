@@ -19,7 +19,7 @@ import androidx.annotation.Nullable;
 import com.google.auto.value.AutoValue;
 
 /**
- * This class represents the AppDistributionRelease object returned by checkForUpdate() and
+ *  This class represents the AppDistributionRelease object returned by checkForUpdate() and
  * updateToLatestRelease()
  *
  * <p>It is an immutable value class implemented by AutoValue.
